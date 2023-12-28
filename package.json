@@ -48,8 +48,7 @@
     "build:unpkg": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format iife"
   },
   "dependencies": {
-    "click-outside-vue3": "^4.0.1",
-    "vue3-tags-input": "^1.0.12"
+    "click-outside-vue3": "^4.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.14.6",
